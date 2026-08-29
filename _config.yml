@@ -13,10 +13,10 @@ title                    : "Sulin Xu"
 title_separator          : "-"
 name                     : &name "Sulin Xu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://xusulin.pumc.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://Sulin-Xu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Sulin-Xu/xusulin.pumc.github.io"
+repository               : "Sulin-Xu/Sulin-Xu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,13 @@ repository               : "Sulin-Xu/xusulin.pumc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Sulin Xu"
+  pronouns         : "she/her"  # example: 
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "BeiJing"
+  employer         : "Peking Union Medical College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xusulin03@163.com" 
 
   # Academic websites
   academia         : # URL
