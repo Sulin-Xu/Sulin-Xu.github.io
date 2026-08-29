@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Sulin Xu"
+locale                   : "zh-CN"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sulin Xu"
 title_separator          : "-"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Sulin Xu"
   pronouns         : "she/her"  # example: 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "BME Ph.D. student @ PUMC"
   location         : "BeiJing"
   employer         : "Peking Union Medical College"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Sulin-Xu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
